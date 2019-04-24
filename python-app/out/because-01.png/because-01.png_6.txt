@@ -1,0 +1,1 @@
+clef-G2	timeSignature-4/4	tie	note-D6_eighth	note-D6_eighth	note-D6_eighth	note-D6_sixteenth	barline	tie	note-D6_sixteenth	rest-eighth	barline	tie	note-D6_eighth	note-D6_eighth	note-D6_eighth	note-D6_eighth	barline	note-C#6_eighth.	note-D6_quarter	note-D5_whole_fermata	rest-eighth	barline	tie	tie	note-D6_eighth	note-D6_eighth	note-B5_eighth	note-D6_eighth	barline	
